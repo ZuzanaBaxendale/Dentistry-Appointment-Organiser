@@ -1,0 +1,10 @@
+D:\repos\DentistryDatabase\DentistryDatabase\bin\Debug\DentistryDatabase.dacpac
+D:\repos\DentistryDatabase\DentistryDatabase\bin\Debug\DentistryDatabase.dll
+D:\repos\DentistryDatabase\DentistryDatabase\bin\Debug\DentistryDatabase.pdb
+D:\repos\DentistryDatabase\DentistryDatabase\obj\Debug\DentistryDatabase.sqlprojAssemblyReference.cache
+D:\repos\DentistryDatabase\DentistryDatabase\obj\Debug\DentistryDatabase.dll
+D:\repos\DentistryDatabase\DentistryDatabase\obj\Debug\DentistryDatabase.pdb
+D:\repos\DentistryDatabase\DentistryDatabase\obj\Debug\Model.xml
+D:\repos\DentistryDatabase\DentistryDatabase\obj\Debug\refactor.xml
+D:\repos\DentistryDatabase\DentistryDatabase\obj\Debug\postdeploy.sql
+D:\repos\DentistryDatabase\DentistryDatabase\obj\Debug\predeploy.sql
